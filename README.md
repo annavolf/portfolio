@@ -1,5 +1,5 @@
 # Anna Volf
-# Software QA Engineer Portfolio
+## Software QA Engineer Portfolio
 4+ YOE testing web and mobile applications across functional, API, accessibility, and automation domains. 
 
 
@@ -13,7 +13,7 @@
 - Bug examples
   
 ## Accessibility Testing
-- Keyboard navigation, screen readers, contast ratio verification
+- Keyboard navigation, screen readers, contrast ratio verification
 - WCAG alignment using WAVE and AXE browser extensions
 
 ## Mobile Testing
@@ -27,14 +27,14 @@
 
 # Tools
 - Jira
--  TestRail
--  Postman
+- TestRail
+- Postman
 - Swagger
 - Browser DevTools
 - BrowserStack
 - WAVE browser extension
 - AXE browser extension
-- Androind Studio
+- Android Studio
 - ADB
 - Charles Proxy
 - Selenium WebDriver
